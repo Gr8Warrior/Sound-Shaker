@@ -12,6 +12,7 @@
 		B11F93E81E2CA71400788E65 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B11F93E61E2CA71400788E65 /* Main.storyboard */; };
 		B11F93EA1E2CA71400788E65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B11F93E91E2CA71400788E65 /* Assets.xcassets */; };
 		B11F93ED1E2CA71400788E65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B11F93EB1E2CA71400788E65 /* LaunchScreen.storyboard */; };
+		B11F93F51E2CA7FF00788E65 /* sounds in Resources */ = {isa = PBXBuildFile; fileRef = B11F93F41E2CA7FF00788E65 /* sounds */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B11F93E91E2CA71400788E65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B11F93EC1E2CA71400788E65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B11F93EE1E2CA71400788E65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B11F93F41E2CA7FF00788E65 /* sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = sounds; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B11F93E21E2CA71400788E65 /* AppDelegate.swift */,
 				B11F93E41E2CA71400788E65 /* ViewController.swift */,
 				B11F93E61E2CA71400788E65 /* Main.storyboard */,
+				B11F93F41E2CA7FF00788E65 /* sounds */,
 				B11F93E91E2CA71400788E65 /* Assets.xcassets */,
 				B11F93EB1E2CA71400788E65 /* LaunchScreen.storyboard */,
 				B11F93EE1E2CA71400788E65 /* Info.plist */,
@@ -125,6 +128,7 @@
 			files = (
 				B11F93ED1E2CA71400788E65 /* LaunchScreen.storyboard in Resources */,
 				B11F93EA1E2CA71400788E65 /* Assets.xcassets in Resources */,
+				B11F93F51E2CA7FF00788E65 /* sounds in Resources */,
 				B11F93E81E2CA71400788E65 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
